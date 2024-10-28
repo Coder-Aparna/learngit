@@ -11,7 +11,8 @@ class FirstScreen extends StatelessWidget {
         child: Column(
           children: [
             Text("Hello"),
-            Text("Today we are learn about git")
+            Text("Today we are learn about git"),
+            Text("gvhbjnmgvhbjnm")
           ],
         ),
       ),
