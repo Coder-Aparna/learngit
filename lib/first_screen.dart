@@ -8,7 +8,12 @@ class FirstScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text("First Screen"),),
       body: const Center(
-        child: Text("Hello"),
+        child: Column(
+          children: [
+            Text("Hello"),
+            Text("Today we are learn about git")
+          ],
+        ),
       ),
     );
   }
