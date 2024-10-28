@@ -12,7 +12,6 @@ class FirstScreen extends StatelessWidget {
           children: [
             Text("Hello"),
             Text("Today we are learn about git"),
-            Text("gvhbjnmgvhbjnm")
           ],
         ),
       ),
